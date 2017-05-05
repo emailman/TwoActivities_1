@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="click_to_send_the_message">Click To Send The Message</string>
+    <string name="secondary_activity">Secondary Activity</string>
+    <string name="message_recieved">Message Recieved</string>
+    <string name="return_to_main">Return To Main</string>
+</resources>
